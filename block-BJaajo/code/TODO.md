@@ -1,7 +1,7 @@
 Create the execution context diagram of the following code. Also write the output of the code below. Keep in mind to have call stack, web browser API and event loop in the diagram. After creating the execution context diagram add the image to the `img` folder.
 
 1.
-
+.
 ```js
 console.log('First');
 setTimeout(() => console.log('Second'), 0);
