@@ -1,6 +1,6 @@
 # Image Search App
 
-Create a application with the following features:
+Create a application with the following features.
 
 - The app will display a list of random images
 - It will also have a search input
