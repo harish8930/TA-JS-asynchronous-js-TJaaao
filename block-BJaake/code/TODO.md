@@ -1,6 +1,6 @@
 ## Spaceflight News App
 
-- Create a new search website using the api link given below
+- Create a new search website using the api link given below.
 - Display all latest news in the start
 - Each news should contain image, title, source and read more button
 - Clicking on read me should take the user to the news url
